@@ -7,7 +7,8 @@
       </div>
 		<div class="col-md-5">
 			<hr>
-			<p >FRIENDLINK</p>
+			<img  width="140px" src="LOGO1.png" alt="Logo del Chat Live"  >
+			<p > <u>DREAMSCAPE</u></p> <br>
 			<p>Información Personal</p>
 				<?php
 			$query = $conn->query("select * from members where member_id = '$session_id'");

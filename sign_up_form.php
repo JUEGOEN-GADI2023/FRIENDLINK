@@ -1,6 +1,7 @@
                             <form  action="signup_save.php" method="post" autocomplete="on"> 
                                 <center>
-                                <h4> Registrate </h4> 
+                                <img  width="120px" src="LOGO1.png" alt="Logo del Chat Live"  >
+                                <h4><u>REGISTRATE</u> </h4> 
                                 </center>
 								<hr>
                                 <p> 

@@ -8,7 +8,9 @@
 		<div class="col-md-10">
 			<hr>
 			<div class="pull-right"><a href="edit_profile.php" class="btn btn-info"><i class="icon-pencil"></i> Editar</a></div>
-			<p >FRIENDLINK</p> <br>
+			<img  width="140px" src="LOGO1.png" alt="Logo del Chat Live"  >
+			
+			<p > <u>DREAMSCAPE</u></p> <br>
 		<br>	<p>Información Personal</p>
 				<?php
 			$query = $conn->query("select * from members where member_id = '$session_id'");

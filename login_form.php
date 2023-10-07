@@ -2,7 +2,8 @@
 <form  method="post" action="login.php" autocomplete="on"> 
     <h1>Donde las amistades hacen clic</h1>
     <center>
-<h2>Iniciar Sección</h2> 
+    <img  width="130px" src="LOGO1.png" alt="Logo del Chat Live"  >
+<h2><U>Iniciar Sección</U></h2> 
 </center>								<hr>
  <p> 
 <label for="username" class="uname" data-icon="u" > Usuario </label>

@@ -9,7 +9,7 @@
         <div class="container">
             <!-- Codrops top bar -->
             <div class="codrops-top">
-                <div class="clr"><div class="title">FriendLink</div></div>
+                <div class="clr"><div class="title">DREAMSCAPE</div></div>
            
             </div><!--/ Codrops top bar -->
             <section>
